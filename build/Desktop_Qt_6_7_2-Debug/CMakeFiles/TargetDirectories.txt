@@ -1,0 +1,9 @@
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/calculator.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/home/ds/Desktop/practice/GUI/calculator/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/calculator_autogen.dir
